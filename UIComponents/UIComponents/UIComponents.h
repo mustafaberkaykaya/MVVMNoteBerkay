@@ -2,7 +2,7 @@
 //  UIComponents.h
 //  UIComponents
 //
-//  Created by Mustafa Berkay Kaya on 5.02.2022.
+//  Created by Mustafa Berkay Kaya on 7.02.2022.
 //
 
 #import <Foundation/Foundation.h>
